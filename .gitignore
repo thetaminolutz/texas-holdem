@@ -1,0 +1,9 @@
+node_modules
+dist
+test-results
+playwright-report
+screenshots/tmp
+*.log
+public/icons
+screenshots/*.png
+lighthouse-report.json
